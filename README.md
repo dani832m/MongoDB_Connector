@@ -2,7 +2,7 @@
 
 **About this program:**
 
-Creates a simple connection and retrieves data from a MongoDB Collection in two different ways.
+Creates a simple connection to a MongoDB Collection, which can retrieve and insert data in different ways.
 
 **Details:**
 

@@ -1,3 +1,11 @@
+/**
+ * Test class for methods.
+ *
+ *      (\_/)
+ *      (o.o)
+ *      (")")
+ *
+ */
 public class MongoTest {
 
     public static void main(String[] args) {
