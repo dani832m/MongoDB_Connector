@@ -34,6 +34,7 @@ public class MongoDB_RetrieveData {
 
     }
 
+    //Just a second method for getCollection
     public void getCollection2() {
 
         try {
